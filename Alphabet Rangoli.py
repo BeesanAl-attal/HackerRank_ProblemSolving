@@ -1,5 +1,5 @@
 # one of the most fun problems in hacker rank a bit hard but for me when it comes to drawing graphs 
-# my first step is studying the graph to find the pattern i need to work one, then i divide the graph to parts and start writing my code 
+# my first step is studying the graph to find the pattern i need to work on, then i divide the graph to parts and start writing my code 
 # then the rest is try and fail till you get it right 
 
 def print_rangoli(size):
